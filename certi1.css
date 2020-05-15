@@ -12,6 +12,7 @@ button{
 button:hover{
 	background: linear-gradient(to bottom, #fc3d03 0%, #fc7b03 100%);
 	border:1px solid blue;
+	color:white;
 	
 
 }
