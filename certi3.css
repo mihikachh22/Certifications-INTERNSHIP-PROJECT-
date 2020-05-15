@@ -1,0 +1,28 @@
+button{
+	margin-bottom: 30px;
+	margin-left: 200px;
+	padding: 2px;
+	padding-right: 25px;
+	
+	height: 80px;
+	width: 1000px;
+	background-color: white;
+	font-size: 30px;
+	box-shadow: 10px 5px 5px grey;
+	
+	font-weight: bold;
+}
+button:hover{
+	background: linear-gradient(to bottom, #fc3d03 0%, #fc7b03 100%);
+	
+	color: white;
+	transition: 0.2s ease;
+
+}
+
+p{
+	margin-left: -60px;
+	margin-top: 14.66%;
+	font-size: 25px;
+	text-align: center;
+}
