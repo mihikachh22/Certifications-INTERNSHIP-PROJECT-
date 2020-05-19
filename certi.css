@@ -1,0 +1,121 @@
+hr{
+	width: 120px;
+	margin-left: -1px;
+}
+#abc{
+	float: left;
+}
+#def{
+	float: right;
+	margin-left: 430px;
+	margin-right: 250px;
+}
+div{
+	margin-top: 200px;
+}
+body{
+	margin-left: 100px;
+
+	}
+	
+	
+
+
+h1 {
+	text-align: center;
+	margin-left: 370px;
+	margin-top: 50px;
+	font-family: 'Segoe UI', cursive;
+	font-size: 50px;
+	font-weight: bold;
+}
+h2{
+	text-align: center;
+	
+	margin-top: 50px;
+	margin-left: 400px;
+
+}
+p{
+	text-align: center;
+	font-family: Segoe UI;
+
+	
+
+}
+#efg{
+	font-family: 'Script MT', cursive;
+	color:#fc7b03;
+	font-size: 20px;
+	font-weight: bold;
+
+	
+}
+#ghi{
+	font-family: 'Segoe UI';
+	color: grey;
+	font-size: 50px;
+	margin-left: -250px;
+}
+img{
+	float: right;
+	margin-right: 200px;
+	width: 450px;
+	height: 280px;
+	margin-top: -30px;
+}
+svg{
+	float: right;
+	margin-top:-150px;
+	margin-left: -50px;
+
+}
+#small{
+	float: left;
+}
+#p{
+	text-align: center;
+	margin-left: -260px;
+}
+#img2{
+	float: right;
+	margin-top: -290px;
+	height: 300px;
+	width: 350px;
+	margin-left: 100px;
+}
+#img3{
+	float: left;
+	height: 257px;
+	width: 280px;
+	margin-top: -770px;
+}
+.mix{
+	margin-left: 380px;
+	font-size: 15px;
+}
+#button{
+    width: 250px;
+    height: 75px;
+    border-radius: 7px;
+    background-color: #2985ff;
+    font-size: 30px;
+    color: #ffffff;
+    align-self: center;
+    margin-top: 100px;
+    margin-left: 400px;
+    text-align: center;
+    filter: drop-shadow(0px 3px 3.5px rgba(0,0,0,0.16));
+}
+
+button:hover{
+    background: linear-gradient(to bottom, #fc3d03 0%, #fc7b03 100%);
+    color: white;
+    transition: 0.2s ease;
+}
+#img4{
+	width: 185px;
+	height: 131px;
+	margin-top: -150px;
+	margin-right: 50px;
+}
