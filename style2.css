@@ -1,0 +1,71 @@
+div{
+    font-family: "Segoe UI";
+    
+}
+
+#heading{
+font-size: 50px;
+color: #4f4f4f;
+font-weight: bold;
+}
+
+#back{
+    font-size: 40px;
+color: #ffffff;
+
+width: 163px;
+height: 75px;
+border-radius: 7px;
+background-color: #2985ff;
+}
+
+#button-a{
+    width: 163px;
+height: 75px;
+border-radius: 7px;
+background-color: #2985ff;
+font-size: 30px;
+color: #ffffff;
+margin-left: 30px;
+
+text-align: center;
+filter: drop-shadow(0px 3px 3.5px rgba(0,0,0,0.16));
+}
+
+#input-a{
+    width: 800px;
+height: 75px;
+border-radius: 7px;
+background-color: #ffffff;
+border: 1px solid #707070;
+font-size: 30px;
+color: #6f6f6f;
+margin-bottom: 15px;
+}
+
+#button-b{
+    width: 356px;
+height: 75px;
+border-radius: 7px;
+background-color: #2985ff;
+font-size: 30px;
+color: #ffffff;
+margin-left: 30px;
+filter: drop-shadow(0px 3px 3.5px rgba(0,0,0,0.16));
+}
+
+#input-b{
+    width: 405px;
+height: 75px;
+border-radius: 7px;
+background-color: #ffffff;
+border: 1px solid #707070;
+font-size: 30px;
+color: #6f6f6f;
+}
+
+button:hover{
+    background: linear-gradient(to bottom, #fc3d03 0%, #fc7b03 100%);
+    color: white;
+    transition: 0.2s ease;
+}
