@@ -5,11 +5,12 @@ button{
 	float:left;
 	height: 200px;
 	width: 300px;
-	background-color: white;
+	background-color: #2985ff;
 	font-size: 30px;
 	box-shadow: 10px 5px 5px grey;
 	margin-top: -2px;
 	font-weight: bold;
+	color:white;
 }
 button:hover{
 	background: linear-gradient(to bottom, #fc3d03 0%, #fc7b03 100%);
