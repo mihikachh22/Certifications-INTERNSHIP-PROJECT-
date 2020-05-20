@@ -43,3 +43,8 @@ p{
 	font-style: "Seogoe UI";
 	font-size: 48px;
 }
+@media screen and (max-width: 800px){
+	button{
+		width: 37.5%;
+	}
+} 
