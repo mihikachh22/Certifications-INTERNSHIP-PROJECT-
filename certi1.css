@@ -24,6 +24,6 @@ button:hover{
 }
 @media screen and (max-width: 800px){
 	button{
-		width: 100%
+		width: 100%;
 	}
 } 
