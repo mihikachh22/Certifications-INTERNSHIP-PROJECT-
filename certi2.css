@@ -5,19 +5,17 @@ button{
 	float:left;
 	height: 200px;
 	width: 300px;
-	background-color: #2985ff;
+	color: white;
 	font-size: 30px;
 	box-shadow: 10px 5px 5px grey;
 	margin-top: -2px;
 	font-weight: bold;
-	color:white;
+	background-color: #2985ff;
 }
 button:hover{
 	background: linear-gradient(to bottom, #fc3d03 0%, #fc7b03 100%);
-	
-	color:white;
-	transition: 0.2s ease;
-
+	transform: .2s ease;
+	color: white;
 	
 
 }
@@ -28,4 +26,20 @@ p{
 	margin-left: 14.66%;
 	margin-top: 14.66%;
 	font-size: 25px;
+}
+.second{
+	margin-top: -150px;
+	font-style: "Seogoe UI";
+	font-size: 48px;
+}
+#zero{
+	margin-top: 80px;
+	font-size: 50px;
+	font-style: "Seogoe UI";
+	font-weight: semibold;
+}
+.first{
+	margin-top: -10px;
+	font-style: "Seogoe UI";
+	font-size: 48px;
 }
