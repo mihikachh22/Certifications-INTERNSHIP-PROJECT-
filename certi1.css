@@ -22,3 +22,8 @@ button:hover{
 .special{
 	margin-left: 15px;
 }
+@media screen and (max-width: 800px){
+	button{
+		width: 100%
+	}
+} 
