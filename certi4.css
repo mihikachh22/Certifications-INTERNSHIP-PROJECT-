@@ -1,0 +1,19 @@
+button{
+	margin-left: 400px;
+	margin-bottom: 10px;
+	background-color: darkgrey;
+}
+form{
+	margin-left: 300px;
+	margin-top: 250px;
+	margin-right: 600px;
+	box-shadow: 6px 5px 5px grey;
+	border:5px solid #ede7e6;
+	background:white;
+
+
+}
+button:hover{
+	background-color: orange;
+	color: white;
+}
